@@ -67,6 +67,12 @@ A curated list of anything and everything related to Sanskrit in one place.
 ## Courses
 
 - https://www.youtube.com/channel/UCqFg6QnwgtVHo1iFgpxrx-A
+- Sanskrit Studies: https://sanskritstudies.org/
+- Learn Sanskrit Online: https://learnsanskritonline.com/
+- Rashtriya Sanskrit Sansthan: http://www.sanskrit.nic.in/
+- Chinmaya International Foundation: https://www.chinfo.org/
+- Samskrita Bharati: https://www.samskritabharati.in/
+- University of Chicago - Department of South Asian Languages and Civilizations: https://salc.uchicago.edu/languages/sanskrit/
 
 ## list of People who are actively working in the field of sanskrit
 
