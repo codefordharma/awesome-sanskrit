@@ -53,6 +53,16 @@ A curated list of anything and everything related to Sanskrit in one place.
 - https://www.coursera.org/search?query=Sanskrit%20for%20Beginners&=
 - https://www.google.com/search?tbm=bks&q=sanskrit
 - https://ncert.nic.in/textbook.php
+- The Bhagavad Gita - https://www.holybooks.com/wp-content/uploads/The-Bhagavad-Gita-Translation-by-Shri-Purohit-Swami.pdf
+- The Yoga Sutras of Patanjali - https://www.holybooks.com/wp-content/uploads/Yoga-Sutras-of-Patanjali.pdf
+- The Vedas - https://www.holybooks.com/rig-veda/
+- The Upanishads - https://www.holybooks.com/the-upanishads-2/
+- The Mahabharata - https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+- The Ramayana - https://www.holybooks.com/ramayana-full-pdf-book/
+- The Puranas - https://www.holybooks.com/the-puranas/
+- The Manusmriti - https://www.holybooks.com/manusmriti-hindi-english/
+- The Arthashastra - https://www.holybooks.com/the-arthashastra/
+- The Tantras - https://www.holybooks.com/the-tantras/
 
 ## Courses
 
