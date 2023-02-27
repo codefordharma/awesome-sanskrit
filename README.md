@@ -46,12 +46,12 @@ A curated list of anything and everything related to Sanskrit in one place.
 - https://www.sanskrit.nic.in/
 - https://www.learnsanskrit.cc/
 - https://www.samskrittutorial.in/
-
-
-
+- https://www.sanskrit-lexicon.uni-koeln.de/
 
 ## Books
 
+- https://www.coursera.org/search?query=Sanskrit%20for%20Beginners&=
+- https://www.google.com/search?tbm=bks&q=sanskrit
 - https://ncert.nic.in/textbook.php
 
 ## Courses
@@ -60,8 +60,74 @@ A curated list of anything and everything related to Sanskrit in one place.
 
 ## list of People who are actively working in the field of sanskrit
 
--
+- https://twitter.com/davidfrawleyved
+- https://github.com/OliverHellwig/sanskrit
+- https://github.com/sanskrit/sanskrit
+- https://github.com/shreevatsa/sanskrit
+- https://github.com/kmadathil/sanskrit_parser
+- https://github.com/indic-dict/stardict-sanskrit
+- https://github.com/goru001/nlp-for-sanskrit
 
 ## list of all the educational institutes in sanskrit domain
+These institutes offer courses in various disciplines related to Sanskrit, such as Vedas, Vyakarana, Mimamsa, Nyaya, and Jyotish. They also offer degree programs at various levels, including bachelor's, master's, and doctoral degrees. Additionally, there are many other smaller institutions and gurukuls that specialize in teaching Sanskrit, Vedic studies, and related subjects throughout India.
 
--
+- Rashtriya Sanskrit Sansthan, New Delhi
+- Shri Lal Bahadur Shastri National Sanskrit University, New Delhi
+- Banaras Hindu University, Varanasi
+- Sampurnanand Sanskrit University, Varanasi
+- Kavikulaguru Kalidas Sanskrit University, Ramtek
+- Gurukula Kangri Vishwavidyalaya, Haridwar
+- Sri Venkateswara Vedic University, Tirupati
+- Rashtriya Sanskrit Vidyapeetha, Tirupati
+- Shree Somnath Sanskrit University, Veraval
+- Sree Sankaracharya University of Sanskrit, Kalady
+- Maharshi Sandipani Rashtriya Vedavidya Pratishthan, Ujjain
+- Maharshi Dayanand Saraswati University, Ajmer
+- Rajasthan Sanskrit University, Jaipur
+- Jagadguru Ramanandacharya Rajasthan Sanskrit University, Jaipur
+- Shri Jagannath Sanskrit Vishvavidyalaya, Puri
+- Shri Shankaracharya University of Sanskrit, Bhuvaneshwar
+- Rashtriya Sanskrit Mahavidyalaya, Tiruchirapalli
+- Madurai Kamaraj University, Madurai
+- Tamil Nadu Sanskrit University, Thanjavur
+- Chinmaya Vishwavidyapeeth, Ernakulam
+- Rashtriya Sanskrit Sansthan, Bhopal
+- Rashtriya Sanskrit Sansthan, Jaipur
+- Rashtriya Sanskrit Sansthan, Kolkata
+- Rashtriya Sanskrit Sansthan, Puri
+- Rashtriya Sanskrit Sansthan, Tirupati
+- Rashtriya Sanskrit Sansthan, Thrissur
+- Rashtriya Sanskrit Vidyapeeth, Puri
+- Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya, Kanchipuram
+- Chinmaya University, Kerala
+- Maharishi University of Management, Iowa, USA
+- Sri Sri University, Cuttack
+- Sri Sri Ravi Shankar Vidya Mandir Trust, Bangalore
+- Vishwa Adhyayan Kendra, New Delhi
+- Sri Aurobindo Centre for Advanced Research, Pondicherry
+- Indian Institute of Technology, Delhi (Department of Sanskrit Studies)
+- Chinmaya Vishwavidyapeeth (School of Kalā and Indian Performing Arts), Kerala
+- Institute of Sanskrit and Indological Studies, University of Mysore, Karnataka
+- Maharshi Panini Sanskrit Evam Vedic Vishwavidyalaya, Ujjain
+- Sri Sathya Sai University for Human Excellence, Andhra Pradesh
+- Shri Veda Bharathi, Karnataka
+- Centre for Indic Studies, University of Massachusetts Dartmouth, USA
+- Oxford Centre for Hindu Studies, Oxford, UK
+- American Institute of Vedic Studies, New Mexico, USA
+- Maharshi Valmiki Sanskrit University, Bihar
+- Sri Vyasa Veda Vidya Peetham, Karnataka
+- Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha, New Delhi
+- International Institute of Sanskrit and Yogic Studies, Kerala
+- Bhartiya Sanskriti Darshan Trust, Gujarat
+- International Vedic Vision Research Foundation, Maharashtra
+- Vaidic Vidya Gurukulam, Andhra Pradesh
+- International Sanskrit Research Academy, Varanasi
+- Shri Jaya Shankar Prasad Sanskrit Vishvavidyalaya, Chhattisgarh
+- Maharishi Markandeshwar University, Haryana
+- Jnanapravaha Mumbai, Maharashtra
+- K J Somaiya Bharatiya Sanskriti Peetham, Mumbai
+- Advaita Academy, Maharashtra
+- Rashtra Sant Tukadoji Maharaj Nagpur University, Maharashtra
+- The Sanskrit College and University, Kolkata
+- Center for Traditional Education and Culture, Kerala
+- The Chinmaya International Foundation, Kerala
