@@ -35,15 +35,28 @@ A curated list of anything and everything related to Sanskrit in one place.
 - https://sanskrit.inria.fr/
 - https://www.learnsanskrit.cc/
 - https://www.sanskrit.nic.in/
+- https://sjsv.nic.in/
+- https://www.onlinetranslationpro.com/sanskrit-to-english-translation
+- https://fontmeme.com/sanskrit/
+- https://omniglot.com/writing/sanskrit.htm
+- https://sanskritdocuments.org/mirrors/ramayana/valmiki.htm
+- https://epustakalay.com/sanskrit-books/
+- http://sanskrit.samskrutam.com/en.MainPage.ashx
+- https://sri.auroville.org/
+- https://www.sanskrit.nic.in/
+- https://www.learnsanskrit.cc/
+- https://www.samskrittutorial.in/
+
+
 
 
 ## Books
 
-- 
+- https://ncert.nic.in/textbook.php
 
 ## Courses
 
-- 
+- https://www.youtube.com/channel/UCqFg6QnwgtVHo1iFgpxrx-A
 
 ## list of People who are actively working in the field of sanskrit
 
