@@ -83,6 +83,7 @@ A curated list of anything and everything related to Sanskrit in one place.
 - https://github.com/kmadathil/sanskrit_parser
 - https://github.com/indic-dict/stardict-sanskrit
 - https://github.com/goru001/nlp-for-sanskrit
+- https://github.com/ptprashanttripathi
 
 ## list of all the educational institutes in sanskrit domain
 These institutes offer courses in various disciplines related to Sanskrit, such as Vedas, Vyakarana, Mimamsa, Nyaya, and Jyotish. They also offer degree programs at various levels, including bachelor's, master's, and doctoral degrees. Additionally, there are many other smaller institutions and gurukuls that specialize in teaching Sanskrit, Vedic studies, and related subjects throughout India.
@@ -147,3 +148,10 @@ These institutes offer courses in various disciplines related to Sanskrit, such 
 - The Sanskrit College and University, Kolkata
 - Center for Traditional Education and Culture, Kerala
 - The Chinmaya International Foundation, Kerala
+
+## Projects
+
+- Sanskrit Programming Language 
+  - https://github.com/vedic-lang/vedic
+  
+
