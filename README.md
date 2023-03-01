@@ -153,8 +153,21 @@ These institutes offer courses in various disciplines related to Sanskrit, such 
 
 - Sanskrit Programming Language 
   - https://github.com/vedic-lang/vedic
-  
-
-
-
+- https://github.com/AI4Bharat
 - https://github.com/rahular/itihasa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
