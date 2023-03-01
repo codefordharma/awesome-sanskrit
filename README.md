@@ -155,3 +155,6 @@ These institutes offer courses in various disciplines related to Sanskrit, such 
   - https://github.com/vedic-lang/vedic
   
 
+
+
+- https://github.com/rahular/itihasa
