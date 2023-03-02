@@ -152,9 +152,29 @@ These institutes offer courses in various disciplines related to Sanskrit, such 
 ## Projects
 
 - Sanskrit Programming Language 
-  - https://github.com/vedic-lang/vedic
+- https://github.com/vedic-lang/vedic
 - https://github.com/AI4Bharat
 - https://github.com/rahular/itihasa
+- https://github.com/svenkatreddy/Ramayana_Book
+- https://github.com/snskrt/desktop-dict
+- https://github.com/vedic-lang/vedic
+- https://github.com/hemanth/sanskrit-dict
+- https://github.com/iamdsc/smart-sanskrit-annotator
+- https://github.com/mbykov/morpheus-sanskrit
+- https://github.com/chchch/sanskrit-alignment
+- https://github.com/mbykov/sandhi
+- https://github.com/vananasun/simplySanskrit
+- https://github.com/PEZ/Sanskrit
+- https://github.com/vedic-lang/vedic-ide
+- https://github.com/hrishikeshrt/chanda
+- https://github.com/WebApps4u/bhagavad-gita
+- https://github.com/killerpanda101/sanskriti
+- https://github.com/ThamaluM/sanskrit-translit
+- https://github.com/tylergneill/Brucheion_tgn
+- https://github.com/mrpirated/Sanskritam
+- https://github.com/saurabhhere/VidVan
+- https://github.com/halunka/sanskrit
+- https://github.com/SameeraMurthy/sanskrit-tts
 
 
 
