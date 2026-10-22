@@ -73,6 +73,7 @@ A curated list of anything and everything related to Sanskrit in one place.
 - Chinmaya International Foundation: https://www.chinfo.org/
 - Samskrita Bharati: https://www.samskritabharati.in/
 - University of Chicago - Department of South Asian Languages and Civilizations: https://salc.uchicago.edu/languages/sanskrit/
+- Indilingo (Sanskrit app with script lessons and speaking practice, Android/iOS): https://www.indilingo.ai/learn/sanskrit
 
 ## list of People who are actively working in the field of sanskrit
 
