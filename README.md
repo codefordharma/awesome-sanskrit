@@ -47,6 +47,7 @@ A curated list of anything and everything related to Sanskrit in one place.
 - https://www.learnsanskrit.cc/
 - https://www.samskrittutorial.in/
 - https://www.sanskrit-lexicon.uni-koeln.de/
+- https://indike.org/pramana/ (Pramāṇa: Sanskrit texts with their commentaries and translations aligned verse by verse, open API)
 
 ## Books
 
